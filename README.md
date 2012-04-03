@@ -3,6 +3,10 @@ PhoneGap NFC Plugin
 
 The PhoneGap NFC Plugin provides access to Near Field Communication (NFC) functionality, allowing applications to read NDEF message in NFC tags. A "tag" may actually be another device that appears as a tag.
 
+Updating to Cordova
+-------------------
+https://github.com/phonegap/phonegap-plugins/issues/392
+
 Supported Platforms
 -------------------
 * Android
